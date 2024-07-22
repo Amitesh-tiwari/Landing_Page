@@ -1,0 +1,194 @@
+.userCentricExcellence {
+  font-weight: 800;
+}
+.our {
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.appDevelopmentServices {
+  font-family: var(--font-inter);
+}
+.tacklesYourPain {
+  font-weight: 600;
+}
+.ourAppDevelopmentServicesT {
+  color: var(--gray-900);
+}
+.userCentricExcellenceOurContainer {
+  width: 600px;
+  position: relative;
+  letter-spacing: 0.33px;
+  display: inline-block;
+}
+.desun {
+  font-weight: 800;
+  color: var(--color-olivedrab);
+}
+.span {
+  font-weight: 500;
+  font-family: var(--sf-title-3-semibold);
+}
+.elevatesYourApp {
+  color: var(--color-orange-100);
+}
+.experienceASeamlessContainer {
+  width: 600px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.24px;
+  display: inline-block;
+  color: var(--gray-900);
+  font-family: var(--sf-title-3-semibold);
+}
+.userCentricExcellenceOurAParent {
+  position: absolute;
+  top: 160px;
+  left: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frameChild {
+  position: absolute;
+  top: -633.7px;
+  left: 628px;
+  width: 1021.4px;
+  height: 2063.5px;
+  object-fit: contain;
+}
+.leaveYourContacts {
+  margin: 0;
+}
+.leaveYourContactsContainer {
+  width: 600px;
+  position: relative;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  display: inline-block;
+}
+.fullName {
+  width: 224px;
+  position: relative;
+  letter-spacing: -0.08px;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.myName {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.myNameWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--gray-900);
+}
+.frameItem {
+  width: 224px;
+  position: relative;
+  max-height: 100%;
+}
+.fullNameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.image4Icon {
+  width: 18px;
+  position: relative;
+  height: 12px;
+  object-fit: cover;
+}
+.image4Wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-base);
+  color: var(--gray-900);
+}
+.frameDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.getConsultation {
+  position: relative;
+  letter-spacing: -0.15px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.getConsultationWrapper {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-olivedrab);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl);
+  text-align: center;
+  font-size: var(--sf-subhead-medium-size);
+  color: var(--color-white);
+}
+.frameGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--sf-caption-1-medium-size);
+  color: var(--gray-500);
+  font-family: var(--sf-title-3-semibold);
+}
+.leaveYourContactsAndWeWilParent {
+  position: absolute;
+  top: 444px;
+  left: 108px;
+  box-shadow: var(--elevation-32-pt);
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  gap: var(--gap-13xl);
+  font-size: var(--sf-title-2-semibold-size);
+  color: var(--gray-900);
+}
+.frameParent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-20xl);
+  color: var(--color-orange-100);
+  font-family: var(--font-inter);
+}

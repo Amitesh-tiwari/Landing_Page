@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Assignment - 1",
+    "id": "669df412b0a4fa2821ec8129",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\amite\\OneDrive\\Desktop\\NextJS Assignment\\src\\components",
+    "screensPath": "c:\\Users\\amite\\OneDrive\\Desktop\\NextJS Assignment\\src\\pages"
+  }
+}
